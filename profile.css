@@ -1,0 +1,48 @@
+.top{
+	position: absolute;
+	top: 30px;
+	left: 500px;
+	color: navy;
+	word-spacing: 15px;
+	font-weight: bolder;
+	font-size: 20px;
+}
+.con{
+	position: absolute;
+	top: 10px;
+	right: 15px;
+	font-size: 25px;
+	color: navy;
+}
+footer{
+	background-color: navy;
+	background-size: cover;
+}
+#we{
+	text-align: center;
+	color: white;
+}
+
+body{
+	background-color:white ; 
+}
+.info{
+	position: absolute;
+	right: 450px;
+	top: 200px;
+}
+button{
+	border-radius: 50px;
+	background-color: navy;
+	color: white;
+	padding: 10px;
+	font-weight: bolder;
+}
+#sel{
+	font-size: 35px;
+	color: navy;
+}
+p{
+	font-size: 25px;
+	color: navy;
+}
